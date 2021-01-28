@@ -41,7 +41,7 @@
     "babel-loader": "^7.1.2",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.23.0",
-    "electron": "^1.7.9",
+    "electron": "^9.4.0",
     "electron-builder": "^19.45.5",
     "eslint": "^4.11.0",
     "eslint-config-standard-preact": "^1.1.6",
